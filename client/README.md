@@ -72,3 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## The command below builds Docker Client Image
 docker build . -t mkomen/yolomy-client:v2.0.0 
+
+## The command below builds Docker backend Image
+docker build . -t mkomen/yolomy-backend:v2.0.0

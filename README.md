@@ -3,6 +3,13 @@
 ## The command below builds Docker Client Image
 docker build . -t mkomen/yolomy-client:v2.0.0
 
+$ docker images
+
+# Example
+REPOSITORY                      TAG        ID              CREATED
+mkomen/yolo-client              v2.0.0     d5135808c81e    1 minute ago
+
+
 ## The command below builds Docker backend Image
 docker build . -t mkomen/yolomy-backend:v2.0.0
 

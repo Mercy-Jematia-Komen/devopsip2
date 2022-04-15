@@ -19,6 +19,16 @@ f9a84c62d55c   mkomen/yolo-backend:v2.0.0   "docker-entrypoint.s…"   20 second
 C:\Users\mkomen>docker logs f9a84c62d55c
 Server listening on port 5000
 
+### Steps of pushing image to docker hub; 
+Docker login 
+Username: mkomen 
+Password: ******* 
+
+### DockerHub Image Links
+https://hub.docker.com/repository/docker/mkomen/yolo-client
+
+https://hub.docker.com/repository/docker/mkomen/yolo-backend
+
 # running manualy without docker
 Make sure that you have the following installed:
 - [node](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04) 
